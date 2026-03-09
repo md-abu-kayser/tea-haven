@@ -1,5 +1,5 @@
-/* CSS3 All Code*/
-/* ---------------------------------------------------------------------- */
+/* CSS3 Style*/
+/* ---------------------------------------------- */
 /* Base Styles */
 body {
   scroll-behavior: smooth;
@@ -430,5 +430,4 @@ section.parallax-bg {
   backdrop-filter: blur(5px);
   background-color: rgba(255, 255, 255, 0.1);
 }
-
-/*------------------------------CSS End-------------------------- */
+/* end */
