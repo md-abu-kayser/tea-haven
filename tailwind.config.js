@@ -41,4 +41,3 @@ export default {
   plugins: [require("daisyui")],
 };
 
-// config tailwind end
